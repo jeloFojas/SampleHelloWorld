@@ -8,7 +8,9 @@ class Program
                         "Castro",
                         "Casas",
                         "Catapia",
-                        "Ramos"};
+                        "Ramos",
+                        "Pastrana",
+                        "Lanoy"};
 
         for (int i = 0; i < names.Length; i++)
         {
